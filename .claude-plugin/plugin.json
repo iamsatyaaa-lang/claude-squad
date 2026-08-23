@@ -5,11 +5,14 @@
   "author": {
     "name": "James Straub"
   },
-  "keywords": ["agents", "delegation", "development", "automation", "workflow"],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/anthropic/claude-squad-plugin"
-  },
+  "keywords": [
+    "agents",
+    "delegation",
+    "development",
+    "automation",
+    "workflow"
+  ],
+  "repository": "https://github.com/anthropic/claude-squad-plugin",
   "license": "MIT",
   "engines": {
     "claude-code": ">=1.0.0"
