@@ -12,7 +12,7 @@
     "automation",
     "workflow"
   ],
-  "repository": "https://github.com/anthropic/claude-squad-plugin",
+  "repository": "https://github.com/jamsajones/claude-squad",
   "license": "MIT",
   "engines": {
     "claude-code": ">=1.0.0"
